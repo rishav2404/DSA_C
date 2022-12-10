@@ -1,5 +1,5 @@
 
-# Project Title
+# Data Structures
 
 This is a repo to help you in Data Structures In C.
 
